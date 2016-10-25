@@ -3,7 +3,7 @@
   "description": "Dice Rolling hubot plugin",
   "version": "1.0.0",
   "author": "ravikiran.j.127@gmail.com",
-  "license": "MIT",
+  "license": "BSD-2-Clause",
 
   "keywords": "dice, hubot-dice, dice rolling",
 
